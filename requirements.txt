@@ -1,0 +1,9 @@
+black==23.1.0
+Django==4.1.7
+django-cors-headers==3.13.0
+djangorestframework==3.14.0
+flake8==6.0.0
+PyJWT==2.6.0
+
+
+
